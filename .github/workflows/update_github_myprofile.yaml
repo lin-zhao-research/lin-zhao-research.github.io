@@ -12,6 +12,7 @@ jobs:
     - name: Run
       run: |
         cd ./github_myprofile_updater
+        ls -la
         python3 update.py
         git init
         git config --local user.name "${GITHUB_ACTOR}"
