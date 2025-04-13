@@ -11,7 +11,7 @@ My research interests lie at the domain of artificial intelligence, biomedical i
 
 
 # 🎓 Prospective Student
-<span style="color: red;"> **I am actively seeking self-motivated PhD students and interns.**</span> If you are interested in working with me, please check the details below and feel free to email me at [lin.zhao.research@gmail.com](mailto:lin.zhao.research@gmail.com).
+I will be joining the [Department of Biomedical Engineering](https://biomedical.njit.edu/) at [New Jersey Institute of Technology](https://www.njit.edu/) as a Tenure-Track Assistant Professor from Fall 2025. <span style="color: red;"> **I am actively seeking self-motivated PhD students and interns.**</span> If you are interested in working with me, please check the details below and feel free to email me at [lin.zhao.research@gmail.com](mailto:lin.zhao.research@gmail.com).
 
 |**PhD Openings**| I am actively looking for multiple highly motivated PhD students starting from Spring 2026. If you're interested in collaborating with me for your doctoral studies, please reach out to me early and submit your application to the [NJIT/Rutgers Joint Ph.D. Program in Biomedical Engineering](https://biomedical.njit.edu/academics/graduate/doctoral.php) and be sure to include my name in your application materials. |
 
