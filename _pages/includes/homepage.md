@@ -1,5 +1,4 @@
 # 📎 Homepages
-- Personal Pages: https://rayeren.github.io (updated recently🔥)
-- Linkedin: https://www.linkedin.com/in/rayeren
+- Personal Pages: https://lin-zhao-research.github.io
+- Linkedin: https://www.linkedin.com/in/lin-zhao-959491175
 - Google Scholar: https://scholar.google.com/citations?user=RxG1Wj8AAAAJ
-- DBLP: https://dblp.org/pid/75/6568-6.html
