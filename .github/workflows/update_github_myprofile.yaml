@@ -17,7 +17,7 @@ jobs:
         git init
         git config --local user.name "${GITHUB_ACTOR}"
         git config --local user.email "lin.zhao.research@gmail.com"
-        export remote_repo="https://${GITHUB_ACTOR}:${{ secrets.GHRS_GITHUB_API_TOKEN }}@github.com/lin-zhao-research/in-zhao-research.git"
+        export remote_repo="https://${GITHUB_ACTOR}:${{ secrets.GHRS_GITHUB_API_TOKEN }}@github.com/lin-zhao-research/lin-zhao-research.git"
         git add README.md
         git add images
         git commit -m "update my description automatically"
