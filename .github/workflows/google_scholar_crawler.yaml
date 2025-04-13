@@ -13,6 +13,8 @@ jobs:
     - name: Install Reqs
       run: |
         sudo apt-get install python3-setuptools
+    - name: Upgrade pip
+      run: python3 -m pip install --upgrade pip
     - name: Run
       run: |
         cd ./google_scholar_crawler
