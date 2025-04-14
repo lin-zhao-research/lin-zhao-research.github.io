@@ -4,7 +4,7 @@
 
 #### 2025
 
-- ``AAAI 2025`` Shaoyan Pan, Yikang Liu, **Lin Zhao**, Eric Z. Chen, Xiao Chen, Terrence Chen, and Shanhui Sun. [Label-Efficient Data Augmentation with Video Diffusion Models for Guidewire Segmentation in Cardiac Fluoroscopy](). *AAAI Conference on Artificial Intelligence (AAAI)*, 2025.
+- ``AAAI 2025`` Shaoyan Pan, Yikang Liu, **Lin Zhao**, Eric Z. Chen, Xiao Chen, Terrence Chen, and Shanhui Sun. [Label-Efficient Data Augmentation with Video Diffusion Models for Guidewire Segmentation in Cardiac Fluoroscopy](https://ojs.aaai.org/index.php/AAAI/article/view/32675). *AAAI Conference on Artificial Intelligence (AAAI)*, 2025.
 
 - ``TBD`` Zihao Wu, Lu Zhang, Chao Cao, Xiaowei Yu, Zhengliang Liu, **Lin Zhao**, Yiwei Li, Haixing Dai, Chong Ma, Gang Li, Wei Liu, Quanzheng Li, Dinggang Shen, Xiang Li, Dajiang Zhu, and Tianming Liu. [Exploring the Trade-Offs: Unified Large Language Models vs Local Fine-Tuned Models for Highly-Specific Radiology NLI Task](https://ieeexplore.ieee.org/abstract/document/10887002). *IEEE Transactions on Big Data*, 2025.
 
