@@ -2,8 +2,8 @@
 [Intersection of Artificial Intelligence and Human Intelligence (IAIHI)](https://qidianzl.github.io/IAINI.github.io/) Workshop (in conjunction with [Brain Informatics (BI) 2023](https://wi-consortium.org/conferences/bi2023/))
 
 # Reviewer
-- IEEE RBME / TNNLS / TMI / JBHI / TAFFC / TCDS
-- Medical Physics / Frontiers in Neuroscience
+- IEEE RBME / TNNLS / TMI / JBHI / TAFFC / TII / TCDS
+- Medical Physics / Frontiers in Neuroscience/Radiology
 
 # Program Committee
 - *2025*: CVPR, NeurIPS
