@@ -4,6 +4,13 @@
 
 #### 2025
 
+- ``Meta-Radiology`` Zhengliang Liu, Yiwei Li, Peng Shu, Aoxiao Zhong, Hanqi Jiang, Yi Pan, Longtao Yang, Chao Ju, Zihao Wu, Chong Ma, Cheng Chen, Sekeun Kim, Haixing Dai, **Lin Zhao**, Lichao Sun, Dajiang Zhu, Jun Liu, Wei Liu, Dinggang Shen, Quanzheng Li, Tianming Liu, and Xiang Li. [Radiology-GPT: A Large Language Model for Radiology](https://www.sciencedirect.com/science/article/pii/S2950162825000219). *Meta-Radiology*, 2025.
+
+- ``Psychoradiology`` **Lin Zhao**. [Advances in Functional Magnetic Resonance Imaging-based Brain Function Mapping: A Deep Learning Perspective](https://academic.oup.com/psyrad/article/doi/10.1093/psyrad/kkaf007/8122098). *Psychoradiology*, 2025.
+
+- ``PLOS Global Public Health`` Haixing Dai, Yiwei Li, Zhengliang Liu, **Lin Zhao**, Zihao Wu, Suhang Song, Shen Ye, Dajiang Zhu, Xiang Li, Sheng Li, Xiaobai Yao, Lu Shi, Tai-Quan Peng, Quanzheng Li, Zhuo Chen, Donglan Zhang, Tianming Liu, Gengchen Mai. [AD-AutoGPT: An Autonomous GPT for Alzheimer’s Disease Infodemiology](https://academic.oup.com/psyrad/article/doi/10.1093/psyrad/kkaf007/8122098). *PLOS Global Public Health*, 2025.
+
+
 - ``AAAI 2025`` Shaoyan Pan, Yikang Liu, **Lin Zhao**, Eric Z. Chen, Xiao Chen, Terrence Chen, and Shanhui Sun. [Label-Efficient Data Augmentation with Video Diffusion Models for Guidewire Segmentation in Cardiac Fluoroscopy](https://ojs.aaai.org/index.php/AAAI/article/view/32675). *AAAI Conference on Artificial Intelligence (AAAI)*, 2025.
 
 - ``TBD`` Zihao Wu, Lu Zhang, Chao Cao, Xiaowei Yu, Zhengliang Liu, **Lin Zhao**, Yiwei Li, Haixing Dai, Chong Ma, Gang Li, Wei Liu, Quanzheng Li, Dinggang Shen, Xiang Li, Dajiang Zhu, and Tianming Liu. [Exploring the Trade-Offs: Unified Large Language Models vs Local Fine-Tuned Models for Highly-Specific Radiology NLI Task](https://ieeexplore.ieee.org/abstract/document/10887002). *IEEE Transactions on Big Data*, 2025.

@@ -2,7 +2,7 @@
 # 📝 Recent Publications [[more...]](\publications\)
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Tech Report</div><img src='/images/arxiv/2503.24368.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2025</div><img src='/images/arxiv/2503.24368.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Adapting Vision Foundation Models for Real-time Ultrasound Image Segmentation](https://arxiv.org/pdf/2503.24368) \\
