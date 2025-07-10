@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Lin Zhao"
-description              : "Research Scientist in United Imaging Intelligence. Focusing on AI and Medical Imaging."
+description              : "Incoming Assistant Professor at NJIT. Focusing on AI and Medical Imaging."
 repository               : "lin-zhao-research/lin-zhao-research.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,12 +23,12 @@ baidu_site_verification  : code-ZxFK3f4pfb
 author:
   name             : "Lin Zhao"
   avatar           : "/images/lin_profile.jpeg"
-  bio              : "United Imaging Intelligence"
-  location         : "Boston, MA"
+  bio              : "New Jersey Institute of Technology"
+  location         : "Newark, NJ"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=RxG1Wj8AAAAJ"
-  email            : "lin.zhao.research@gmail.com"
+  email            : "lin.zhao.1@njit.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
