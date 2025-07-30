@@ -18,3 +18,5 @@ I will be joining the [Department of Biomedical Engineering](https://biomedical.
 |**Intern Openings**|I am also looking for self-motivated remote and in-person intern students starting at any time. My past interns have secured first-author publications in top jounrals and conferences such as TNNLS/TMI/MedIA/MICCAI. I would prefer that you are interested in working with me as a PhD student in the long run.|
 
 **Email Format**: Please use the subject line: "Interest in {Position, e.g., Ph.D.} – {Start Term, e.g., Spring 2026} – {Your Name}" and attach your CV. Thanks!
+
+**Note**: I carefully read every email I receive. However, due to the high volume of inquiries, I may not be able to respond to each one individually. Thank you for your understanding.
