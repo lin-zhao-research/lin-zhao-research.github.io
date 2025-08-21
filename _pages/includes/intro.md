@@ -2,7 +2,7 @@
 
 # Short Bio
 
-Lin Zhao is a Senior Research Scientist at United Imaging Intelligence (UII) America. He received his PhD degree in Computer Science from University of Georgia in 2023 under the supervision of [Prof. Tianming Liu](https://cobweb.cs.uga.edu/~tliu/). During his PhD study, he also interned at Alibaba DAMO Academy in 2022 and United Imaging Intelligence in 2021. He received his Bachelor degree from Northwestern Polytechnical University in 2017. His recent research interests include Brain-inspired AI, Large Foundation Models, Vision-Language Modeling and their applications in medical imaging. He has published over 50 papers <a href='https://scholar.google.com/citations?user=RxG1Wj8AAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Flin-zhao-research%2Flin-zhao-research.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top AI and medical imaging jounrals and conferences. 
+Lin Zhao is an Assistant Professor at the [Department of Biomedical Engineering](https://biomedical.njit.edu/), [New Jersey Institute of Technology (NJIT)](https://www.njit.edu/). He was a Senior Research Scientist at United Imaging Intelligence (UII) America from 2023 to 2025. He received his PhD degree in Computer Science from University of Georgia in 2023 under the supervision of [Prof. Tianming Liu](https://cobweb.cs.uga.edu/~tliu/). During his PhD study, he also interned at Alibaba DAMO Academy in 2022 and United Imaging Intelligence in 2021. He received his Bachelor degree from Northwestern Polytechnical University in 2017. His recent research interests include Brain-inspired AI, Large Foundation Models, Vision-Language Modeling and their applications in medical imaging. He has published over 50 papers <a href='https://scholar.google.com/citations?user=RxG1Wj8AAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Flin-zhao-research%2Flin-zhao-research.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top AI and medical imaging jounrals and conferences. 
 
 
 # Research Interests
@@ -11,7 +11,7 @@ My research interests lie at the domain of artificial intelligence, biomedical i
 
 
 # 🎓 Prospective Student
-I will be joining the [Department of Biomedical Engineering](https://biomedical.njit.edu/) at [New Jersey Institute of Technology](https://www.njit.edu/) as a Tenure-Track Assistant Professor from Fall 2025. <span style="color: red;"> **I am actively seeking self-motivated PhD students and interns.**</span> If you are interested in working with me, please check the details below and feel free to email me at [lin.zhao.1@njit.edu](mailto:lin.zhao.1@njit.edu).
+<span style="color: red;"> **I am actively seeking self-motivated PhD students and interns.**</span> If you are interested in working with me, please check the details below and feel free to email me at [lin.zhao.1@njit.edu](mailto:lin.zhao.1@njit.edu).
 
 |**PhD Openings**| I am actively looking for multiple highly motivated PhD students starting from Spring 2026. If you're interested in collaborating with me for your doctoral studies, please reach out to me early and submit your application to the [NJIT/Rutgers Joint Ph.D. Program in Biomedical Engineering](https://biomedical.njit.edu/academics/graduate/doctoral.php) and be sure to include my name in your application materials. |
 
