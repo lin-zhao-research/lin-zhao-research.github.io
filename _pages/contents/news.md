@@ -1,5 +1,8 @@
 # 🔥 News
-
+- *2025.02*: One paper on GPT for Alzheimer’s disease infodemiology is accepted by PLOS Global Public Health.
+- *2025.01*: One paper on active learning is accepted by Big Data Mining and Analytics (BDMA).
+- *2024.12*: One paper on diffusion-based cardiac fluoroscopy video generation is accepted by AAAI 2025.
+- *2024.10*: One review paper **Artificial General Intelligence for Medical Imaging Analysis** is accepted by IEEE Reviews in Biomedical Engineering (RBME).
 - *2024.08*: One paper is accepted by Medical Image Analysis (MedIA).
 - *2024.06*: One paper on brain-inspired visual attention decoding is accepted by IEEE Transactions on Multimedia (TMM).
 - *2024.06*: One paper on radiology NLI task is accepted by IEEE Transactions on Big Data (TBD).
