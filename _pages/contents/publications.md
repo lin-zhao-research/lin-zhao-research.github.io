@@ -4,6 +4,10 @@
 
 #### 2025
 
+- ``MICCAI 2025`` Xiaoran Zhang, Eric Z Chen, **Lin Zhao**, Xiao Chen, Yikang Liu, Boris Maihe, James S Duncan, Terrence Chen, and Shanhui Sun. [Adapting Vision Foundation Models for Real-time Ultrasound Image Segmentation](https://link.springer.com/chapter/10.1007/978-3-032-04971-1_3). *International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)*, 2025.
+
+- ``TNNLS`` **Lin Zhao**, Xiao Chen, Eric Z Chen, Yikang Liu, Terrence Chen, and Shanhui Sun. [Retrieval-augmented Few-shot Medical Image Segmentation with Fundation Models](https://ieeexplore.ieee.org/abstract/document/11021654). *IEEE Transactions on Neural Networks and Learning Systems*, 2025.
+
 - ``Meta-Radiology`` Zhengliang Liu, Yiwei Li, Peng Shu, Aoxiao Zhong, Hanqi Jiang, Yi Pan, Longtao Yang, Chao Ju, Zihao Wu, Chong Ma, Cheng Chen, Sekeun Kim, Haixing Dai, **Lin Zhao**, Lichao Sun, Dajiang Zhu, Jun Liu, Wei Liu, Dinggang Shen, Quanzheng Li, Tianming Liu, and Xiang Li. [Radiology-GPT: A Large Language Model for Radiology](https://www.sciencedirect.com/science/article/pii/S2950162825000219). *Meta-Radiology*, 2025.
 
 - ``Psychoradiology`` **Lin Zhao**. [Advances in Functional Magnetic Resonance Imaging-based Brain Function Mapping: A Deep Learning Perspective](https://academic.oup.com/psyrad/article/doi/10.1093/psyrad/kkaf007/8122098). *Psychoradiology*, 2025.
