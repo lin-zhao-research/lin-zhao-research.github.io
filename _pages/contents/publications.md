@@ -4,6 +4,8 @@
 
 #### 2025
 
+- ``TMI`` **Lin Zhao***, Xin Yu, Yikang Liu, Xiao Chen, Eric Z Chen, Terrence Chen, Shanhui Sun. [Leveraging Diffusion Model and Image Foundation Model for Improved Correspondence Matching in Coronary Angiography](https://ieeexplore.ieee.org/document/11208162). *IEEE Transactions on Medical Imaging*, 2025.
+
 - ``MICCAI 2025`` Xiaoran Zhang, Eric Z Chen, **Lin Zhao**, Xiao Chen, Yikang Liu, Boris Maihe, James S Duncan, Terrence Chen, and Shanhui Sun. [Adapting Vision Foundation Models for Real-time Ultrasound Image Segmentation](https://link.springer.com/chapter/10.1007/978-3-032-04971-1_3). *International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)*, 2025.
 
 - ``TNNLS`` **Lin Zhao**, Xiao Chen, Eric Z Chen, Yikang Liu, Terrence Chen, and Shanhui Sun. [Retrieval-augmented Few-shot Medical Image Segmentation with Fundation Models](https://ieeexplore.ieee.org/abstract/document/11021654). *IEEE Transactions on Neural Networks and Learning Systems*, 2025.
