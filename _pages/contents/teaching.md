@@ -1,5 +1,9 @@
 # 📖 Teaching
 
+## Courses at NJIT
+- *Spring 2026*: BME 210: Processing Fundamentals for Biological Signals
+
+
 ## Courses at UGA
 
 #### Instructor of Record

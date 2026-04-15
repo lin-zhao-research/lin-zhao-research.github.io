@@ -4,7 +4,7 @@
 
 #### 2025
 
-- ``TMI`` **Lin Zhao***, Xin Yu, Yikang Liu, Xiao Chen, Eric Z Chen, Terrence Chen, Shanhui Sun. [Leveraging Diffusion Model and Image Foundation Model for Improved Correspondence Matching in Coronary Angiography](https://ieeexplore.ieee.org/document/11208162). *IEEE Transactions on Medical Imaging*, 2025.
+- ``TMI`` **Lin Zhao**, Xin Yu, Yikang Liu, Xiao Chen, Eric Z Chen, Terrence Chen, Shanhui Sun. [Leveraging Diffusion Model and Image Foundation Model for Improved Correspondence Matching in Coronary Angiography](https://ieeexplore.ieee.org/document/11208162). *IEEE Transactions on Medical Imaging*, 2025.
 
 - ``MICCAI 2025`` Xiaoran Zhang, Eric Z Chen, **Lin Zhao**, Xiao Chen, Yikang Liu, Boris Maihe, James S Duncan, Terrence Chen, and Shanhui Sun. [Adapting Vision Foundation Models for Real-time Ultrasound Image Segmentation](https://link.springer.com/chapter/10.1007/978-3-032-04971-1_3). *International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)*, 2025.
 
@@ -14,7 +14,7 @@
 
 - ``Psychoradiology`` **Lin Zhao**. [Advances in Functional Magnetic Resonance Imaging-based Brain Function Mapping: A Deep Learning Perspective](https://academic.oup.com/psyrad/article/doi/10.1093/psyrad/kkaf007/8122098). *Psychoradiology*, 2025.
 
-- ``PLOS Global Public Health`` Haixing Dai, Yiwei Li, Zhengliang Liu, **Lin Zhao**, Zihao Wu, Suhang Song, Shen Ye, Dajiang Zhu, Xiang Li, Sheng Li, Xiaobai Yao, Lu Shi, Tai-Quan Peng, Quanzheng Li, Zhuo Chen, Donglan Zhang, Tianming Liu, Gengchen Mai. [AD-AutoGPT: An Autonomous GPT for Alzheimer’s Disease Infodemiology](https://academic.oup.com/psyrad/article/doi/10.1093/psyrad/kkaf007/8122098). *PLOS Global Public Health*, 2025.
+- ``PLOS Global Public Health`` Haixing Dai, Yiwei Li, Zhengliang Liu, **Lin Zhao**, Zihao Wu, Suhang Song, Shen Ye, Dajiang Zhu, Xiang Li, Sheng Li, Xiaobai Yao, Lu Shi, Tai-Quan Peng, Quanzheng Li, Zhuo Chen, Donglan Zhang, Tianming Liu, Gengchen Mai. [AD-AutoGPT: An Autonomous GPT for Alzheimer’s Disease Infodemiology](https://journals.plos.org/globalpublichealth/article?id=10.1371/journal.pgph.0004383). *PLOS Global Public Health*, 2025.
 
 
 - ``AAAI 2025`` Shaoyan Pan, Yikang Liu, **Lin Zhao**, Eric Z. Chen, Xiao Chen, Terrence Chen, and Shanhui Sun. [Label-Efficient Data Augmentation with Video Diffusion Models for Guidewire Segmentation in Cardiac Fluoroscopy](https://ojs.aaai.org/index.php/AAAI/article/view/32675). *AAAI Conference on Artificial Intelligence (AAAI)*, 2025.
