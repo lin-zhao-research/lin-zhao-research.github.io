@@ -1,1 +1,1 @@
-bundle exec jekyll serve --open-url --livereload --trace  --incremental
+bundle exec jekyll serve --open-url --livereload --trace

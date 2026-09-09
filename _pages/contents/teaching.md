@@ -1,6 +1,7 @@
 # 📖 Teaching
 
 ## Courses at NJIT
+- *Fall 2026*: BME 658: AI in Medical Imaging
 - *Spring 2026*: BME 210: Processing Fundamentals for Biological Signals
 
 

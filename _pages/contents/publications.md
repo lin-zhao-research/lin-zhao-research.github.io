@@ -2,13 +2,32 @@
 # 📝 Publications [[Google Scholar]](https://scholar.google.com/citations?hl=en&user=RxG1Wj8AAAAJ)
 
 
+#### 2026
+
+- ``Nature BME`` Cheng Wang, Yu Jiang, Zhihao Peng, Chenxin Li, Chang-Bae Bang, **Lin Zhao**, Wanyi Fu, Jinglei Lv, Jorge Sepulcre, Carl Yang, Lifang He, Tianming Liu, Xue-Jun Kong, Quanzheng Li, Daniel S. Barron, Anqi Qiu, Randy Hirschtick, Byung-Hoon Kim, Hongbin Han, Xiang Li, and Yixuan Yuan. [Towards a General-Purpose Foundation Model for Functional MRI Analysis](https://www.nature.com/articles/s41551-026-01666-y). *Nature Biomedical Engineering*, 2026.
+
+- ``ISBI 2026`` Yiwei Li, Yi Pan, Junhao Chen, Yifan Zhou, Hanqi Jiang, Huaqin Zhao, Yanjun Lyu, Zhengliang Liu, **Lin Zhao**, Dajiang Zhu, Xiang Li, and Tianming Liu. [MEDQUA: A NISQ-Aware Quantum Adapter for Medical Vision–Language Models](https://ieeexplore.ieee.org/abstract/document/11515966/). *IEEE International Symposium on Biomedical Imaging (ISBI)*, 2026.
+
+- ``Quantitative Biology`` Wei Ruan, Yanjun Lyu, Jing Zhang, Jiazhang Cai, Peng Shu, Yang Ge, Yao Lu, Shang Gao, Yue Wang, Peilong Wang, **Lin Zhao**, Tao Wang, Yufang Liu, Luyang Fang, Ziyu Liu, Zhengliang Liu, Yiwei Li, Zihao Wu, Junhao Chen, Hanqi Jiang, Yi Pan, Zhenyuan Yang, Jingyuan Chen, Shizhe Liang, Wei Zhang, Terry Ma, Yuan Dou, Jianli Zhang, Xinyu Gong, Qi Gan, Yusong Zou, Zebang Chen, Yuanxin Qian, Shuo Yu, Jin Lu, Kenan Song, Xianqiao Wang, Andrea Sikora, Gang Li, Xiang Li, Quanzheng Li, Yingfeng Wang, Lu Zhang, Yohannes Abate, Lifang He, Wenxuan Zhong, Rongjie Liu, Chao Huang, Wei Liu, Ye Shen, Ping Ma, Hongtu Zhu, Yajun Yan, Dajiang Zhu, and Tianming Liu. [Large Language Models for Bioinformatics](https://onlinelibrary.wiley.com/doi/10.1002/qub2.70014). *Quantitative Biology*, 2026.
+
+- ``Meta-Radiology`` Hanqi Jiang, Yi Pan, Junhao Chen, Zhengliang Liu, Lichao Sun, Quanzheng Li, Lu Zhang, Dajiang Zhu, Xianqiao Wang, Wei Liu, Xiang Li, Gang Li, Wei Zhang, **Lin Zhao**, Xiaowei Yu, Yingfeng Wang, and Tianming Liu. [Quantum Artificial Intelligence: A Comprehensive Survey](https://www.sciencedirect.com/science/article/pii/S2950162826000019). *Meta-Radiology*, 2026.
+
+---
 #### 2025
+
+- ``AAAI FSS 2025`` Yi Pan\*, Hanqi Jiang\*, Junhao Chen, Yiwei Li, Huaqin Zhao, **Lin Zhao**, Yohannes Abate, Yingfeng Wang, and Tianming Liu. [Bridging Classical and Quantum Computing for Next-Generation Language Models](https://ojs.aaai.org/index.php/AAAI-SS/article/view/36909). *AAAI Fall Symposium Series (FSS)*, 2025.
+
+- ``TBME`` Tianyang Zhong, Wei Zhao, Yutong Zhang, Yi Pan, Peixin Dong, Zuowei Jiang, Hanqi Jiang, Yifan Zhou, Xiaoyan Kui, Youlan Shang, **Lin Zhao**, Li Yang, Yaonai Wei, Zhuoyi Li, Jiadong Zhang, Longtao Yang, Hao Chen, Huan Zhao, Yuxiao Liu, Ning Zhu, Yiwei Li, Yisong Wang, Jiaqi Yao, Jiaqi Wang, Ying Zeng, Lei He, Chao Zheng, Zhixue Zhang, Ming Li, Zhengliang Liu, Haixing Dai, Zihao Wu, Lu Zhang, Shu Zhang, Xiaoyan Cai, Xintao Hu, Shijie Zhao, Xi Jiang, Xin Zhang, Wei Liu, Xiang Li, Dajiang Zhu, Lei Guo, Dinggang Shen, Junwei Han, Tianming Liu, Jun Liu, and Tuo Zhang. [ChatRadio-Valuer: A Chat Large Language Model for Generalizable Radiology Impression Generation on Multi-Institution and Multi-System Data](https://ieeexplore.ieee.org/abstract/document/11122334/). *IEEE Transactions on Biomedical Engineering*, 2025.
+
+- ``Acta Biomaterialia`` Jixin Hou, Kun Jiang, Arunachalam Ramanathan, Abhishek Saji Kumar, Wei Zhang, **Lin Zhao**, Taotao Wu, Ramana Pidaparti, Dajiang Zhu, Gang Li, Kenan Song, Tianming Liu, Mir Jalil Razavi, Ellen Kuhl, and Xianqiao Wang. [Mechanical Characterization of Brain Tissue: Experimental Techniques, Human Testing Considerations, and Perspectives](https://www.sciencedirect.com/science/article/pii/S1742706125005434). *Acta Biomaterialia*, 2025.
+
+- ``BDMA`` Luyang Fang, Cheng Meng, **Lin Zhao**, Tao Wang, Tianming Liu, Wenxuan Zhong, and Ping Ma. [SPOT: An Active Learning Algorithm for Efficient Deep Neural Network Training](https://ieeexplore.ieee.org/abstract/document/11080213/). *Big Data Mining and Analytics*, 2025.
 
 - ``TMI`` **Lin Zhao**, Xin Yu, Yikang Liu, Xiao Chen, Eric Z Chen, Terrence Chen, Shanhui Sun. [Leveraging Diffusion Model and Image Foundation Model for Improved Correspondence Matching in Coronary Angiography](https://ieeexplore.ieee.org/document/11208162). *IEEE Transactions on Medical Imaging*, 2025.
 
 - ``MICCAI 2025`` Xiaoran Zhang, Eric Z Chen, **Lin Zhao**, Xiao Chen, Yikang Liu, Boris Maihe, James S Duncan, Terrence Chen, and Shanhui Sun. [Adapting Vision Foundation Models for Real-time Ultrasound Image Segmentation](https://link.springer.com/chapter/10.1007/978-3-032-04971-1_3). *International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)*, 2025.
 
-- ``TNNLS`` **Lin Zhao**, Xiao Chen, Eric Z Chen, Yikang Liu, Terrence Chen, and Shanhui Sun. [Retrieval-augmented Few-shot Medical Image Segmentation with Fundation Models](https://ieeexplore.ieee.org/abstract/document/11021654). *IEEE Transactions on Neural Networks and Learning Systems*, 2025.
+- ``TNNLS`` **Lin Zhao**, Xiao Chen, Eric Z Chen, Yikang Liu, Terrence Chen, and Shanhui Sun. [Retrieval-Augmented Few-Shot Medical Image Segmentation with Foundation Models](https://ieeexplore.ieee.org/abstract/document/11021654). *IEEE Transactions on Neural Networks and Learning Systems*, 2025.
 
 - ``Meta-Radiology`` Zhengliang Liu, Yiwei Li, Peng Shu, Aoxiao Zhong, Hanqi Jiang, Yi Pan, Longtao Yang, Chao Ju, Zihao Wu, Chong Ma, Cheng Chen, Sekeun Kim, Haixing Dai, **Lin Zhao**, Lichao Sun, Dajiang Zhu, Jun Liu, Wei Liu, Dinggang Shen, Quanzheng Li, Tianming Liu, and Xiang Li. [Radiology-GPT: A Large Language Model for Radiology](https://www.sciencedirect.com/science/article/pii/S2950162825000219). *Meta-Radiology*, 2025.
 
@@ -27,6 +46,8 @@
 
 ---
 #### 2024
+
+- ``Book Chapter`` Ning Qiang, Qinglin Dong, Heng Huang, Han Wang, Shijie Zhao, Xintao Hu, Qing Li, Wei Zhang, Yiheng Liu, Mengshen He, Bao Ge, **Lin Zhao**, Zihao Wu, Lu Zhang, Steven Xu, Dajiang Zhu, Xi Jiang, and Tianming Liu. [Deep Learning in Functional Brain Mapping and Associated Applications](https://www.sciencedirect.com/science/chapter/edited-volume/abs/pii/B9780323851244000258). *Deep Learning for Medical Image Analysis*, 2024.
 
 - ``RBME`` Xiang Li\*, **Lin Zhao\***, Lu Zhang\*, Zihao Wu, Zhengliang Liu, Hanqi Jiang, Chao Cao, Shaochen Xu, Yiwei Li, Haixing Dai, Yixuan Yuan, Jun Liu, Gang Li, Dajiang Zhu, Pingkun Yan, Quanzheng Li, Wei Liu, Tianming Liu, and Dinggang Shen. [Artificial General Intelligence for Medical Imaging Analysis](https://ieeexplore.ieee.org/abstract/document/10746601). *IEEE Reviews in Biomedical Engineering*, 2024. <strong><span class='show_paper_citations' data='RxG1Wj8AAAAJ:ns9cj8rnVeAC'></span></strong>
 

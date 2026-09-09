@@ -87,6 +87,8 @@ exclude:
   - node_modules
   - package.json
   - tmp
+  - run_server.ps1
+  - LOCAL_DEVELOPMENT.md
   - vendor
   - google_scholar_crawler
   - github_myprofile_updater
