@@ -1,4 +1,4 @@
-# 📖 Teaching
+# Teaching
 
 ## Courses at NJIT
 - *Fall 2026*: BME 658: AI in Medical Imaging

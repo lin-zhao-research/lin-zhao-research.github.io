@@ -1,5 +1,30 @@
 
-# 📝 Recent Publications [[more...]](\publications\)
+# Recent Works [[more...]](/publications/)
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026</div><img src='/images/arxiv/2609.38098-fig3.svg' alt="NeuronEye Figure 3: Neuron-guided Visual Focus and Perceptual Concept Suppression" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[NeuronEye: Query-Guided Visual Concept Activation for Vision-Language Reasoning](https://arxiv.org/abs/2609.38098) \\
+Ruiyu Yan, Bowen Chen, Shaowen Wan, **Lin Zhao**
+
+[![Static Badge](https://img.shields.io/badge/arxiv-2609.38098-white?style=flat&logo=arxiv)](https://arxiv.org/abs/2609.38098)
+[![Static Badge](https://img.shields.io/badge/Project-NeuronEye-green)](https://winegorilla.github.io/NeuronEye-Project-Page/)
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026</div><img src='/images/arxiv/2605.23992.png' alt="GazeWorld network architecture" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A World Model of Radiologist Reading for Medical Image Representation Learning](https://arxiv.org/abs/2605.23992) \\
+Yiwei Li, Zihao Wu, Huaqin Zhao, Yifan Zhou, Chao Cao, Dajiang Zhu, Tianming Liu, **Lin Zhao**
+
+[![Static Badge](https://img.shields.io/badge/arxiv-2605.23992-white?style=flat&logo=arxiv)](https://arxiv.org/abs/2605.23992)
+
+</div>
+</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Tech Reports</div><img src='/images/arxiv/2603.05873.png' alt="sym" width="100%"></div></div>

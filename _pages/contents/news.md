@@ -1,9 +1,16 @@
-# 🔥 News
-- *2025.12*: 🎉 Received an **NVIDIA Academic Grant** to support our research on federated learning for foundation models in medical imaging.
-- *2025.09*: 🎉 One paper on correspondence matching in coronary angiography is accepted by IEEE Transactions on Medical Imaging (TMI).
-- *2025.09*: 🎉 MI<sup>2</sup> Lab Launched at New Jersey Institute of Technology.
-- *2025.05*: One paper on real-time ultrasound image segmentation using foundation models is early accepted by MICCAI 2025.
-- *2025.04*: One review paper on large language model for radiology is accepted by Meta-Radiology.
+# News
+- *2026.09*: Three papers are accepted by NeurIPS 2026.
+- *2026.09*: Welcome Bowen and Shaowen to MI<sup>2</sup> Lab as PhD students!
+- *2026.06*: One paper on anatomical understanding is accepted by ECCV 2026.
+- *2026.03*: Received an **NJ Commission on Brain Injury Research Grant** from the New Jersey Department of Health (Co-PI).
+- *2026.03*: One paper on an fMRI foundation model is accepted by **Nature Biomedical Engineering**.
+- *2026.01*: Invited to serve as an Area Chair for [MICCAI 2026](https://conferences.miccai.org/2026).
+- *2026.01*: One paper is accepted by ISBI 2026.
+- *2025.12*: Received an **NVIDIA Academic Grant** to support our research on federated learning for foundation models in medical imaging.
+- *2025.09*: One paper on correspondence matching in coronary angiography is accepted by IEEE Transactions on Medical Imaging (TMI).
+- *2025.09*: MI<sup>2</sup> Lab launched at the New Jersey Institute of Technology.
+- *2025.05*: One paper on real-time ultrasound image segmentation using foundation models received early acceptance at MICCAI 2025.
+- *2025.04*: One review paper on large language models for radiology is accepted by Meta-Radiology.
 - *2025.04*: One review paper on fMRI-based brain function mapping is accepted by Psychoradiology.
 - *2025.04*: One paper on few-shot medical image segmentation is accepted by IEEE Transactions on Neural Networks and Learning Systems (TNNLS).
 - *2025.04*: I will be joining the [Department of Biomedical Engineering](https://biomedical.njit.edu/) at [New Jersey Institute of Technology](https://www.njit.edu/) as a Tenure-Track Assistant Professor from Fall 2025.
@@ -17,22 +24,22 @@
 - *2024.06*: One paper on mask-guided vision transformer is accepted by IEEE Transactions on Neural Networks and Learning Systems (TNNLS).
 - *2024.06*: One paper on dynamic coronary roadmapping is accepted by MICCAI 2024.
 - *2024.05*: One paper on text data augmentation with ChatGPT is accepted by IEEE Transactions on Big Data (TBD).
-- *2024.01*: One paper on gyri/sulci functional difference is accepted by Cerabral Cortex.
+- *2024.01*: One paper on gyri/sulci functional difference is accepted by Cerebral Cortex.
 - *2024.01*: One paper on brain structural connectivity guided vision transformers is accepted by IEEE Journal of Biomedical and Health Informatics (JBHI).
 - *2023.12*: Our review paper **Review of Large Vision Models and Visual Prompt Engineering** is accepted by Meta-Radiology.
 - *2023.12*: Our Instruction-ViT paper is accepted by Information Fusion.
 - *2023.12*: One paper on relational graph of vision transformer AI is accepted by IEEE Transactions on Neural Networks and Learning Systems (TNNLS).
-- *2023.11*: One paper on multi-band EEG tranformer is accepted by IEEE Transactions on Biomedical Engineering (TBME).
+- *2023.11*: One paper on multi-band EEG transformer is accepted by IEEE Transactions on Biomedical Engineering (TBME).
 - *2023.10*: One paper is accepted by International Conference on Bioinformatics and Biomedicine (BIBM) (Acceptance Rate: 19.5%).
 - *2023.08*: One paper on rectifying shortcut learning in vision transformer is accepted by IEEE Transactions on Neural Networks and Learning Systems (TNNLS).
-- *2023.08*: Two papers are accepted by MLMI 2024.
+- *2023.08*: Two papers are accepted at workshops held in conjunction with MICCAI 2023.
 - *2023.08*: Our review paper **Summary of ChatGPT-Related Research and Perspective towards the Future of Large Language Models** is accepted by Meta-Radiology.
 - *2023.07*: One paper on brain function embedding is accepted by Medical Image Analysis (MedIA).
-- *2024.06*: One paper is accepted by MICCAI 2023.
+- *2023.06*: One paper is accepted by MICCAI 2023.
 - *2023.06*: One paper is accepted by International Conference on Advanced Data Mining and Applications (ADMA).
 - *2023.06*: One paper on eye-gaze guided vision transformer AI is accepted by IEEE Transactions on Medical Imaging (TMI).
 - *2023.05*: One paper on brain-inspired AI is accepted by IEEE Transactions on Cognitive and Developmental Systems (TCDS).
-- *2023.05*: I received my Ph.D. degree in Computer Science from the University of Georiga, Athens, GA.
+- *2023.05*: I received my Ph.D. degree in Computer Science from the University of Georgia, Athens, GA.
 - *2023.05*: One paper is accepted by Findings of the Association for Computational Linguistics (ACL) 2023.
 - *2023.03*: I joined United Imaging Intelligence (UII) America as a Senior Research Scientist.
 - *2023.02*: I successfully defended my Ph.D. dissertation.

@@ -21,7 +21,7 @@
 # Journal Reviewer
 
 - IEEE TMI / TNNLS / TPAMI / RBME / TII / TAFFC / JBHI / TCDS / THMS
-- Medical Physics / Psychoradiology / Frontiers in Neuroscience / Radiology / Human Neuroscience
+- Medical Physics / Psychoradiology / Frontiers in Neuroscience / Radiology / Frontiers in Human Neuroscience
 
 
 # Invited Talks
@@ -30,8 +30,8 @@
 - *2026.03*, Towards a General-purpose Foundation Model for fMRI analysis, AI Exploration Day, NJIT
 - *2025.09*, Leveraging Foundation Models for Medical Imaging Applications, AI & Health Workshop, Rutgers University
 - *2025.04*, Advances in fMRI-Based Brain Function Mapping, Webinar, Psychoradiology
-- *2025.04*, From Brain to Artificial Intelligence Explore Brain-inspired AI, Department of Statistics, University of Georgia.
-- *2024.02*, From Brain to Artificial Intelligence Explore Brain-inspired AI, Department of Computer Science and Engineering, University of Texas at Arlington.
+- *2025.04*, From Brain to Artificial Intelligence: Exploring Brain-Inspired AI, Department of Statistics, University of Georgia.
+- *2024.02*, From Brain to Artificial Intelligence: Exploring Brain-Inspired AI, Department of Computer Science and Engineering, University of Texas at Arlington.
 - *2022.07*, Embedding Human Brain Function via Transformer, School of Biomedical Engineering, ShanghaiTech University.
 - *2022.07*, Multi-modal HCI Data Collection for Radiologists and Computer Aided Diagnosis, Center for Advanced Medical Computing and Analysis, Harvard Medical School.
 - *2022.02*, Introduction to MRI Reconstruction, CSCI 4850 Invited Lecture, University of Georgia.

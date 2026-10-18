@@ -1,8 +1,18 @@
 
-# 📝 Publications [[Google Scholar]](https://scholar.google.com/citations?hl=en&user=RxG1Wj8AAAAJ)
+# Publications [[Google Scholar]](https://scholar.google.com/citations?hl=en&user=RxG1Wj8AAAAJ)
 
 
 #### 2026
+
+- ``NeurIPS 2026`` Ruiyu Yan, Bowen Chen, Shaowen Wan, and **Lin Zhao**. [NeuronEye: Query-Guided Visual Concept Activation for Vision-Language Reasoning](https://arxiv.org/abs/2609.38098). *Advances in Neural Information Processing Systems (NeurIPS)*, 2026.
+
+- ``NeurIPS 2026`` Yiwei Li, Zihao Wu, Huaqin Zhao, Yifan Zhou, Chao Cao, Dajiang Zhu, Tianming Liu, and **Lin Zhao**. [A World Model of Radiologist Reading for Medical Image Representation Learning](https://arxiv.org/abs/2605.23992). *Advances in Neural Information Processing Systems (NeurIPS)*, 2026.
+
+- ``NeurIPS 2026`` Hanqi Jiang, Junhao Chen, Mingyu Kang, Hyeokjae Kwon, Yi Pan, Lifeng Chen, Weihang You, Haozhen Gong, Ruiyu Yan, Jinglei Lv, **Lin Zhao**, Hui Ren, Quanzheng Li, Tianming Liu, and Xiang Li. [MedVIGIL: Evaluating Trustworthy Medical VLMs Under Broken Visual Evidence](https://arxiv.org/abs/2605.07919). *Advances in Neural Information Processing Systems (NeurIPS)*, 2026.
+
+- ``Meta-Radiology`` Yuzhen Ding, Shuoyang Wei, Jason Holmes, Yuexing Hao, Zhengliang Liu, Peilong Wang, Junjie Cui, Meiyun Cao, Caiwen Jiang, **Lin Zhao**, Chenbin Liu, Lian Zhang, Yunze Yang, Tianming Liu, and Wei Liu. [Applications of Large Language Models in Radiation Oncology: From Workflow Automation to Clinical Intelligence](https://www.sciencedirect.com/science/article/pii/S2950162826000408). *Meta-Radiology*, 100244, 2026.
+
+- ``ECCV 2026`` Yiwei Li, Yikang Liu, Jiaqi Guo, **Lin Zhao**, Zheyuan Zhang, Xiao Chen, Boris Mailhe, Ankush Mukherjee, Terrence Chen, and Shanhui Sun. [RAU: Reference-Based Anatomical Understanding with Vision Language Models](https://link.springer.com/chapter/10.1007/978-3-032-37041-9_19). *European Conference on Computer Vision (ECCV)*, pp. 351–370, 2026.
 
 - ``Nature BME`` Cheng Wang, Yu Jiang, Zhihao Peng, Chenxin Li, Chang-Bae Bang, **Lin Zhao**, Wanyi Fu, Jinglei Lv, Jorge Sepulcre, Carl Yang, Lifang He, Tianming Liu, Xue-Jun Kong, Quanzheng Li, Daniel S. Barron, Anqi Qiu, Randy Hirschtick, Byung-Hoon Kim, Hongbin Han, Xiang Li, and Yixuan Yuan. [Towards a General-Purpose Foundation Model for Functional MRI Analysis](https://www.nature.com/articles/s41551-026-01666-y). *Nature Biomedical Engineering*, 2026.
 
@@ -70,13 +80,13 @@
 
 - ``TBME`` Enze Shi, Sigang Yu, Yanqing Kang, Jinru Wu, **Lin Zhao**, Dajiang Zhu, Jinglei Lv, Tianming Liu, Xintao Hu, and Shu Zhang. [MEET: A Multi-Band EEG Transformer for Brain States Decoding](https://ieeexplore.ieee.org/abstract/document/10345766). *IEEE Transactions on Biomedical Engineering*, 2023.
 
-- ``BIBM 2023`` Yaonai Wei, Tuo Zhang, Han Zhang, Tianyang Zhong, Lin Zhao, Zhengliang Liu, Chong Ma, Songyao Zhang, Muheng Shang, Lei Du, Xiao Li, Tianming Liu, and Junwei Han. [Chat2Brain: A Method for Mapping Open-Ended Semantic Queries to Brain Activation Maps](https://ieeexplore.ieee.org/abstract/document/10385933). *International Conference on Bioinformatics and Biomedicine (BIBM)*, 2023.
+- ``BIBM 2023`` Yaonai Wei, Tuo Zhang, Han Zhang, Tianyang Zhong, **Lin Zhao**, Zhengliang Liu, Chong Ma, Songyao Zhang, Muheng Shang, Lei Du, Xiao Li, Tianming Liu, and Junwei Han. [Chat2Brain: A Method for Mapping Open-Ended Semantic Queries to Brain Activation Maps](https://ieeexplore.ieee.org/abstract/document/10385933). *International Conference on Bioinformatics and Biomedicine (BIBM)*, 2023.
 
 - ``Meta-Radiology`` Jiaqi Wang, Zhengliang Liu, **Lin Zhao**, Zihao Wu, Chong Ma, Sigang Yu, Haixing Dai, Qiushi Yang, Yiheng Liu, Songyao Zhang, Enze Shi, Yi Pan, Tuo Zhang, Dajiang Zhu, Xiang Li, Xi Jiang, Bao Ge, Yixuan Yuan, Dinggang Shen, Tianming Liu, and Shu Zhang. [Review of Large Vision Models and Visual Prompt Engineering](https://www.sciencedirect.com/science/article/pii/S2950162823000474). *Meta-Radiology*, 2023.
 
-- ``MLMI 2024`` Haixing Dai, Mengxuan Hu, Qing Li, Lu Zhang, **Lin Zhao**, Dajiang Zhu, Ibai Diez, Jorge Sepulcre, Fan Zhang, Xingyu Gao, Manhua Liu, Quanzheng Li, Sheng Li, Tianming Liu, and Xiang Li. [Graph-Based Counterfactual Causal Inference Modeling for Neuroimaging Analysis](https://link.springer.com/chapter/10.1007/978-3-031-47425-5_19). International Workshop on Machine Learning in Medical Imaging (MLMI), 2024.
+- ``MICCAI 2023 Workshops`` Haixing Dai, Mengxuan Hu, Qing Li, Lu Zhang, **Lin Zhao**, Dajiang Zhu, Ibai Diez, Jorge Sepulcre, Fan Zhang, Xingyu Gao, Manhua Liu, Quanzheng Li, Sheng Li, Tianming Liu, and Xiang Li. [Graph-Based Counterfactual Causal Inference Modeling for Neuroimaging Analysis](https://link.springer.com/chapter/10.1007/978-3-031-47425-5_19). *Medical Image Computing and Computer Assisted Intervention – MICCAI 2023 Workshops*, 2023.
 
-- ``MLMI 2024`` Zhengliang Liu, Aoxiao Zhong, Yiwei Li, Longtao Yang, Chao Ju, Zihao Wu, Chong Ma, Peng Shu, Cheng Chen, Sekeun Kim, Haixing Dai, **Lin Zhao**, Dajiang Zhu, Jun Liu, Wei Liu, Dinggang Shen, Quanzheng Li, Tianming Liu, and Xiang Li . [Tailoring Large Language Models to Radiology: A Preliminary Approach to LLM Adaptation for a Highly Specialized Domain](https://link.springer.com/chapter/10.1007/978-3-031-45673-2_46). International Workshop on Machine Learning in Medical Imaging (MLMI), 2024.
+- ``MLMI 2023`` Zhengliang Liu, Aoxiao Zhong, Yiwei Li, Longtao Yang, Chao Ju, Zihao Wu, Chong Ma, Peng Shu, Cheng Chen, Sekeun Kim, Haixing Dai, **Lin Zhao**, Dajiang Zhu, Jun Liu, Wei Liu, Dinggang Shen, Quanzheng Li, Tianming Liu, and Xiang Li. [Tailoring Large Language Models to Radiology: A Preliminary Approach to LLM Adaptation for a Highly Specialized Domain](https://link.springer.com/chapter/10.1007/978-3-031-45673-2_46). *International Workshop on Machine Learning in Medical Imaging (MLMI 2023)*, 2024.
 
 - ``MedIA`` **Lin Zhao\***, Zihao Wu\*, Haixing Dai, Zhengliang Liu, Xintao Hu, Tuo Zhang, Dajiang Zhu, and Tianming Liu. [A Generic Framework for Embedding Human Brain Function with Temporally Correlated Autoencoder](https://www.sciencedirect.com/science/article/abs/pii/S1361841523001524). *Medical Image Analysis*, 2023.
 
@@ -84,9 +94,9 @@
 
 - ``ADMA 2023`` Qing Li, Haixing Dai, Jinglei Lv, **Lin Zhao**, Zhengliang Liu, Zihao Wu, Xia Wu, Claire Coles, Xiaoping Hu, Tianming Liu, and Dajiang Zhu. [Individual Functional Network Abnormalities Mapping via Graph Representation-Based Neural Architecture Search](https://link.springer.com/chapter/10.1007/978-3-031-46671-7_6). *International Conference on Advanced Data Mining and Applications (ADMA)*, 2023.
 
-- ``Meta-Radiology`` Yiheng Liu, Tianle Han, Siyuan Ma, Jiayue Zhang, Yuanyuan Yang, Jiaming Tian, Hao He, Antong Li, Mengshen He, Zhengliang Liu, Zihao Wu, **Lin Zhao**, Dajiang Zhu, Xiang Li, Ning Qiang, Dingang Shen, Tianming Liu, and Bao Ge. [Summary of ChatGPT-Related Research and Perspective Towards the Future of Large Language Models](https://www.sciencedirect.com/science/article/pii/S2950162823000176). *Meta-Radiology*, 2023. <strong><span class='show_paper_citations' data='RxG1Wj8AAAAJ:mB3voiENLucC'></span></strong>
+- ``Meta-Radiology`` Yiheng Liu, Tianle Han, Siyuan Ma, Jiayue Zhang, Yuanyuan Yang, Jiaming Tian, Hao He, Antong Li, Mengshen He, Zhengliang Liu, Zihao Wu, **Lin Zhao**, Dajiang Zhu, Xiang Li, Ning Qiang, Dinggang Shen, Tianming Liu, and Bao Ge. [Summary of ChatGPT-Related Research and Perspective Towards the Future of Large Language Models](https://www.sciencedirect.com/science/article/pii/S2950162823000176). *Meta-Radiology*, 2023. <strong><span class='show_paper_citations' data='RxG1Wj8AAAAJ:mB3voiENLucC'></span></strong>
 
-- ``ACL Findings 2023`` Mengyue Zhou, Xu Liu, David Liu, Zihao Wu, Zhengliang Liu, **Lin Zhao**, Dajiang Zhu, Lei Guo, Junwei Han, Tianming Liu, and Xintao Hu. [Fine-Grained Artificial Neurons in Audio-Transformers for Disentangling Neural Auditory Encoding](). *Findings of the Association for Computational Linguistics (ACL)*, 2023.
+- ``ACL Findings 2023`` Mengyue Zhou, Xu Liu, David Liu, Zihao Wu, Zhengliang Liu, **Lin Zhao**, Dajiang Zhu, Lei Guo, Junwei Han, Tianming Liu, and Xintao Hu. [Fine-Grained Artificial Neurons in Audio-Transformers for Disentangling Neural Auditory Encoding](https://aclanthology.org/2023.findings-acl.503/). *Findings of the Association for Computational Linguistics (ACL)*, 2023.
 
 - ``AAAI 2023`` Xu Liu, Mengyue Zhou, Gaosheng Shi, Yu Du, **Lin Zhao**, Zihao Wu, David Liu, Tianming Liu, and Xintao Hu. [Coupling Artificial Neurons in BERT and Biological Neurons in the Human Brain](https://ojs.aaai.org/index.php/AAAI/article/view/26068). *AAAI Conference on Artificial Intelligence (AAAI)*, 2023.
 
@@ -100,7 +110,7 @@
 
 - ``Cerebral Cortex`` Lu Zhang, **Lin Zhao**, David Liu, Zihao Wu, Xianqiao Wang, Tianming Liu, and Dajiang Zhu. [Cortex2vector: Anatomical Embedding of Cortical Folding Patterns](https://academic.oup.com/cercor/article/33/10/5851/6880883). *Cerebral Cortex*, 2023.
 
-- ``MICCAI 2023`` Jiaxing Gao, **Lin Zhao**, Tianyang Zhong, Changhe Li, Zhibin He, Yaonei Wei, Shu Zhang, Lei Guo, Tianming Liu, Junwei Han, and Tuo Zhang. [Prediction of Cognitive Scores by Joint Use of Movie-Watching fMRI Connectivity and Eye Tracking via Attention-CensNet](https://link.springer.com/chapter/10.1007/978-3-031-43895-0_27). *International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)*, 2023.
+- ``MICCAI 2023`` Jiaxing Gao, **Lin Zhao**, Tianyang Zhong, Changhe Li, Zhibin He, Yaonai Wei, Shu Zhang, Lei Guo, Tianming Liu, Junwei Han, and Tuo Zhang. [Prediction of Cognitive Scores by Joint Use of Movie-Watching fMRI Connectivity and Eye Tracking via Attention-CensNet](https://link.springer.com/chapter/10.1007/978-3-031-43895-0_27). *International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)*, 2023.
 
 
 ---
@@ -110,7 +120,7 @@
   
 - ``MICCAI 2022`` Siyuan Dong, Eric Z. Chen, **Lin Zhao**, Xiao Chen, Yikang Liu, Terrence Chen, and Shanhui Sun. [Invertible Sharpening Network for MRI Reconstruction Enhancement](https://link.springer.com/chapter/10.1007/978-3-031-16446-0_55). *International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)*, 2022.
 
-- ``MLMI 2022`` Saed Rezayi, Haixing Dai, Zhengliang Liu, Zihao Wu, Akarsh Hebbar, Andrew H. Burns, **Lin Zhao**, Dajiang Zhu, Quanzheng Li, Wei Liu, Sheng Li, Tianming Liu, and Xiang Li . [ClinicalRadioBERT: Knowledge-Infused Few Shot Learning for Clinical Notes Named Entity Recognition](https://link.springer.com/chapter/10.1007/978-3-031-21014-3_28). International Workshop on Machine Learning in Medical Imaging (MLMI), 2022.
+- ``MLMI 2022`` Saed Rezayi, Haixing Dai, Zhengliang Liu, Zihao Wu, Akarsh Hebbar, Andrew H. Burns, **Lin Zhao**, Dajiang Zhu, Quanzheng Li, Wei Liu, Sheng Li, Tianming Liu, and Xiang Li. [ClinicalRadioBERT: Knowledge-Infused Few Shot Learning for Clinical Notes Named Entity Recognition](https://link.springer.com/chapter/10.1007/978-3-031-21014-3_28). International Workshop on Machine Learning in Medical Imaging (MLMI), 2022.
 
 - ``MLMI 2022`` Haixing Dai, Qing Li, **Lin Zhao**, Liming Pan, Cheng Shi, Zhengliang Liu, Zihao Wu, Lu Zhang, Shijie Zhao, Xia Wu, Tianming Liu, and Dajiang Zhu. [Graph Representation Neural Architecture Search for Optimal Spatial/Temporal Functional Brain Network Decomposition](https://link.springer.com/chapter/10.1007/978-3-031-21014-3_29). International Workshop on Machine Learning in Medical Imaging (MLMI), 2022.
 
