@@ -22,6 +22,8 @@ Ruiyu Yan, Bowen Chen, Shaowen Wan, **Lin Zhao**
 Yiwei Li, Zihao Wu, Huaqin Zhao, Yifan Zhou, Chao Cao, Dajiang Zhu, Tianming Liu, **Lin Zhao**
 
 [![Static Badge](https://img.shields.io/badge/arxiv-2605.23992-white?style=flat&logo=arxiv)](https://arxiv.org/abs/2605.23992)
+[![Static Badge](https://img.shields.io/badge/Project-GazeWorld-green)](https://levyisthebest.github.io/gazeworld/)
+[![Static Badge](https://img.shields.io/badge/GitHub-GazeWorld-9E95B7?logo=github)](https://github.com/levyisthebest/gazeworld)
 
 </div>
 </div>
@@ -34,6 +36,8 @@ Yiwei Li, Zihao Wu, Huaqin Zhao, Yifan Zhou, Chao Cao, Dajiang Zhu, Tianming Liu
 Bowen Chen, Qiaohui Gao, Shaowen Wan, Shanhui Sun, Wei Liu, Xiang Li, Tianming Liu, **Lin Zhao**
 
 [![Static Badge](https://img.shields.io/badge/arxiv-2603.05873-white?style=flat&logo=arxiv)](https://arxiv.org/abs/2603.05873)
+[![Static Badge](https://img.shields.io/badge/Project-MemSeg--Agent-green)](https://b0wenchen.github.io/MemSeg-Agent/#)
+[![Static Badge](https://img.shields.io/badge/GitHub-MemSeg--Agent-9E95B7?logo=github)](https://github.com/b0wenchen/MemSeg-Agent)
 
 </div>
 </div>
