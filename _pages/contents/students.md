@@ -6,7 +6,7 @@
   <article class="student-card">
     <div class="student-card__avatar" aria-hidden="true">BC</div>
     <div class="student-card__body">
-      <div class="student-card__name">Bowen Chen</div>
+      <div class="student-card__name"><a href="https://b0wenchen.github.io/">Bowen Chen</a></div>
       <div class="student-card__meta">
         <span class="student-card__degree">Ph.D.</span>
         <span>Fall 2026 – Present</span>
