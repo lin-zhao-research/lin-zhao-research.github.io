@@ -67,19 +67,6 @@ Silin Chen, Yuzhong Chen, Zifan Wang, Junhao Wang, Zifeng Jia, Keith M Kendrick,
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature BME</div><img src='/images/arxiv/2506.11167.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Towards a General-purpose Foundation Model for fMRI Analysis](https://arxiv.org/abs/2506.11167) \\
-Cheng Wang, Yu Jiang, Zhihao Peng, Chenxin Li, Changbae Bang, **Lin Zhao**, Wanyi Fu, Jinglei Lv, Jorge Sepulcre, Carl Yang, Lifang He, Tianming Liu, Xue-Jun Kong, Quanzheng Li, Daniel S. Barron, Anqi Qiu, Randy Hirschtick, Byung-Hoon Kim, Hongbin Han, Xiang Li, Yixuan Yuan
-
-[![Static Badge](https://img.shields.io/badge/arxiv-2506.11167-white?style=flat&logo=arxiv)](https://arxiv.org/abs/2506.11167)
-[![Static Badge](https://img.shields.io/badge/Project-NeuroSTORM-green)](https://cuhk-aim-group.github.io/NeuroSTORM/)
-[![Static Badge](https://img.shields.io/badge/GitHub-NeuroSTORM-9E95B7?logo=github)](https://github.com/CUHK-AIM-Group/NeuroSTORM)
-
-</div>
-</div>
-
 <!-- 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMI</div><img src='/images/arxiv/2504.00191.png' alt="sym" width="100%"></div></div>
